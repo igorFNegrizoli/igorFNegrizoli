@@ -10,13 +10,15 @@
 
 ### 👋 Hi there, I'm Igor
 
-I'm Igor, a Computer Scientist with experience in Fullstack software development. I am originally from [Loanda](https://pt.wikipedia.org/wiki/Loanda) currently based on [Maringá](https://en.wikipedia.org/wiki/Maring%C3%A1). I graduated from [UNIOESTE](https://pt.wikipedia.org/wiki/Universidade_Estadual_do_Oeste_do_Paran%C3%A1) on August 2022 with 3.48 GPA and 88/100 average grade. 
+I'm a Computer Scientist with experience in Fullstack software development. I am originally from [Loanda](https://pt.wikipedia.org/wiki/Loanda) and currently based on [Maringá](https://en.wikipedia.org/wiki/Maring%C3%A1). I graduated from [UNIOESTE](https://pt.wikipedia.org/wiki/Universidade_Estadual_do_Oeste_do_Paran%C3%A1) on August 2022 with 3.48 GPA and 88/100 average grade. 
 
-I have experience with technologies such as Python, JavaScript, and Java. I also contributed to complex projects like banking applications, fault tolerance systems for oil rigs and real-time stock monitoring applications. I have extensive experience in working with agile methodology and working as a team player in the most amazing companies. I took part in a lot of research projects during my BSc, having [papers published](http://lattes.cnpq.br/4911200081874612) on international scale symposiums and being part of the [PETComp Group](https://petsite-bd39a.web.app/). Working with exciting technologies and dynamic teams is what makes me feel accomplished professionally, and that's what I'm looking for.
+I have experience with technologies such as Python, JavaScript, and Java. I also contributed to complex projects like banking applications, fault tolerance systems for oil rigs and real-time stock monitoring applications. I have extensive experience in working with agile methodology and working as a team player in the most amazing companies. I took part in a lot of research projects during my BSc, having [papers published](http://lattes.cnpq.br/4911200081874612) on international scale symposiums and being part of the [PETComp Group](https://petsite-bd39a.web.app/). 
+
+Working with exciting technologies and dynamic teams is what makes me feel accomplished professionally, and that's what I'm looking for.
 
 My personal interests are very broad, they go from Veganism, Tabletop Role Playing Games and Traveling to Bodybuilding, Modified Cars and Competitive First Person Shooters.
 
-You can reach me through [LinkedIn](https://www.linkedin.com/in/igorfnegrizoli/) or email at igor.negrizoli at gmail.com
+You can reach me through [LinkedIn](https://www.linkedin.com/in/igorfnegrizoli/) or email at igor.negrizoli at gmail dot com
 
 ---
 
