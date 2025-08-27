@@ -1,22 +1,12 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/igorfnegrizoli/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ### 👋 Hi there, I'm Igor
 
-I'm a Computer Scientist with experience in Fullstack software development. I am originally from [Loanda](https://pt.wikipedia.org/wiki/Loanda) and currently based on [Maringá](https://en.wikipedia.org/wiki/Maring%C3%A1). I graduated from [UNIOESTE](https://pt.wikipedia.org/wiki/Universidade_Estadual_do_Oeste_do_Paran%C3%A1) on August 2022 with 3.48 GPA and 88/100 average grade. 
+I'm a Computer Scientist with experience in Fullstack software development and Agentic AI systems. I am originally from [Loanda](https://pt.wikipedia.org/wiki/Loanda) and currently based on [Maringá](https://en.wikipedia.org/wiki/Maring%C3%A1). I graduated from [UNIOESTE](https://pt.wikipedia.org/wiki/Universidade_Estadual_do_Oeste_do_Paran%C3%A1) on August 2022 with 3.5 GPA and 88/100 average grade. 
 
-I have experience with technologies such as Python, JavaScript, and Java. I also contributed to complex projects like banking applications, fault tolerance systems for oil rigs and real-time stock monitoring applications. I have extensive experience in working with agile methodology and working as a team player in the most amazing companies. I took part in a lot of research projects during my BSc, having [papers published](http://lattes.cnpq.br/4911200081874612) on international scale symposiums and being part of the [PETComp Group](https://petsite-bd39a.web.app/). 
+I mainly focus on backend and LLM centric cevelopment using technologies such as Python, FastAPI, SQL, Langchain, Langfuse, Qdrant, and so on. I also am able work a little with Frontend, but is not my focus, I have past experiences with JavaScript, Typescript, with Node and Next. I contributed to complex projects like Third-party risk assessments AI system, banking applications, fault tolerance systems for oil rigs and real-time stock monitoring applications. I also took part in a lot of research projects during my BSc, having [papers published](http://lattes.cnpq.br/4911200081874612) on international scale symposiums and being part of the [PETComp Group](instagram.com/petcomp_unioeste) during all my graduation. 
 
-Working with exciting technologies and dynamic teams is what makes me feel accomplished professionally, and that's what I'm looking for.
+Working with exciting technologies and dynamic teams is what makes me feel accomplished professionally, and that's what I look for.
 
-My personal interests are very broad, they go from Veganism, Tabletop Role Playing Games and Traveling to Bodybuilding, Modified Cars and Competitive First Person Shooters.
+My personal interests are very broad, they go from Veganism, Tabletop Role Playing Games and Hiking to Bodybuilding, Modified Cars and Competitive First Person Shooters.
 
 You can reach me through [LinkedIn](https://www.linkedin.com/in/igorfnegrizoli/) or email at igor.negrizoli at gmail dot com
 
